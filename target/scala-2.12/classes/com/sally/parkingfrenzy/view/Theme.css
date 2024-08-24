@@ -1,0 +1,230 @@
+/*
+@font-face {
+    -fx-font-family: "gontserrat";
+    -fx-src: url(../fonts/Gontserrat.ttf);
+}
+
+@font-face {
+    -fx-font-family: "oceanic-drift";
+    -fx-src: url(../fonts/oceanicdrift.ttf);
+}
+*/
+
+/* General */
+.background{
+    -fx-background-image: url("../images/background-cars.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+
+.button{
+    -fx-background-color: rgba(0, 0, 0, 0.5);
+    -fx-alignment: center;
+    -fx-font-weight: 600;
+    -fx-font-size: 18px;
+    -fx-border-radius: 30px;
+}
+
+.button:hover{
+    -fx-background-color: rgba(0, 0, 0, 0.65);
+}
+
+.title-label{
+    -fx-background-image: url('../images/road-sign-green.png');
+    -fx-background-size: contain;
+    -fx-background-repeat: no-repeat;
+    -fx-font-size: 36px;
+    -fx-font-weight: 700;
+}
+
+.content-background{
+    -fx-background-image: url('../images/road-sign-yellow.png');
+    -fx-background-size: contain;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+.back-button{
+    -fx-background-image: url("../images/button-back.png");
+    -fx-background-size: contain;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: rgba(0, 0, 0, 0);
+}
+
+/* Select Car */
+#startButton{
+    -fx-background-image: url('../images/button-start.png');
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: contain;
+    -fx-background-color: rgba(255, 255, 255, 0);
+    -fx-font-size: 36px;
+    -fx-font-weight: 700;
+}
+
+#taxiToggleButton, #policeCarToggleButton, #sportCarToggleButton{
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 75%;
+    -fx-background-position: center;
+    -fx-background-color: rgba(255, 255, 255, 0);
+    -fx-border-color: white;
+    -fx-border-width: 8px;
+}
+
+#taxiToggleButton:hover, #policeCarToggleButton:hover, #sportCarToggleButton:hover{
+    -fx-border-color: rgba(252, 211, 79, 0.9);
+}
+
+#taxiToggleButton:selected, #policeCarToggleButton:selected, #sportCarToggleButton:selected{
+    -fx-border-color: rgba(252, 211, 79, 1);
+}
+
+#taxiToggleButton{
+    -fx-background-image: url("../images/player-taxi.png");
+}
+
+#policeCarToggleButton{
+    -fx-background-image: url("../images/player-police-car.png");
+}
+
+#sportCarToggleButton{
+    -fx-background-image: url("../images/player-sport-car.png");
+}
+
+#selectCarBackground{
+    -fx-background-color: #808080;
+}
+
+#nameTextField{
+    -fx-background-color: rgba(0, 0, 0, 0.5);
+    -fx-text-fill: white;
+}
+
+
+/* Leaderboard */
+.table-view {
+    -fx-base: #1d1d1d;
+    -fx-control-inner-background: transparent;
+    -fx-background-color: transparent;
+    -fx-table-cell-border-color: transparent;
+    -fx-table-header-border-color: transparent;
+    -fx-text-alignment: center;
+}
+
+.table-view .column-header-background {
+    -fx-background-color: rgba(0, 0, 0, 0.8);
+}
+
+.table-view .column-header, .table-view .filler {
+    -fx-size: 15;
+    -fx-border-width: 0 0 1 0;
+    -fx-background-color: transparent;
+    -fx-border-color:
+            transparent
+            transparent
+            derive(-fx-base, 80%)
+            transparent;
+}
+
+.table-view .column-header .label {
+    -fx-font-size: 15pt;
+    -fx-font-weight: 700;
+    -fx-text-fill: white;
+    -fx-alignment: center;
+    -fx-opacity: 1;
+}
+
+.table-cell {
+    -fx-alignment: center;
+    -fx-font-size: 14pt;
+    -fx-text-fill: white;
+    -fx-padding: 3.5pt;
+    -fx-border-color: transparent;
+}
+
+.table-row-cell{
+    -fx-background-color: rgba(0, 0, 0, 0.5);
+}
+
+.table-row-cell:empty{
+    -fx-border-color: rgba(0,0,0,0);
+    -fx-background-color: rgba(0,0,0,0);
+}
+
+
+/* Game */
+#gameAnchorPane{
+    -fx-background-image: url("../images/background-grass.png");
+    -fx-background-size: cover;
+}
+
+#parkingArea{
+    -fx-background-color: rgba(210, 210, 210, 1);
+}
+
+#retryButton{
+    -fx-background-color: rgba(0, 0, 0, 0);
+    -fx-background-image: url("../images/button-retry.png");
+    -fx-background-size: contain;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#pausePlayButton{
+    -fx-background-color: rgba(0, 0, 0, 0);
+    -fx-background-size: contain;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+.button-pause {
+    -fx-background-image: url("../images/button-pause.png");
+    -fx-background-size: contain;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+.button-play {
+    -fx-background-image: url("../images/button-play.png");
+    -fx-background-size: contain;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#drivingModeSlider .track{
+    -fx-pref-width: 10px;
+    -fx-background-radius: 5;
+    -fx-background-color: black;
+}
+
+#drivingModeSlider{
+    -fx-background-color: linear-gradient(to top, #666666, #999999);
+    -fx-background-radius: 10;
+}
+
+#drivingModeSlider .thumb{
+    -fx-background-color: linear-gradient(to top, #AAAAAA, #EEEEEE);
+    -fx-background-radius: 10;
+}
+
+.menu-bar{
+    -fx-alignment: center;
+    -fx-background-color: #628857;
+}
+
+.menu .label{
+    -fx-text-fill: white;
+
+}
+
+.menu:hover, .menu:showing, .menu-item:hover{
+    -fx-background-color: #96b773;
+}
+
+.menu-bar .context-menu{
+    -fx-background-color: #628857;
+}
+
+
+
