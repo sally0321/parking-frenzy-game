@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0aa27b1-f668-4671-a5a6-3d6c00e9a224" name="Changes" comment="Final commit">
+      <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDB/db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/myDB/db.lck" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDB/log/log.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/myDB/log/log.ctrl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDB/log/log1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/myDB/log/log1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDB/log/logmirror.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/myDB/log/logmirror.ctrl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDB/seg0/c150.dat" beforeDir="false" afterPath="$PROJECT_DIR$/myDB/seg0/c150.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDB/seg0/c161.dat" beforeDir="false" afterPath="$PROJECT_DIR$/myDB/seg0/c161.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDB/seg0/c171.dat" beforeDir="false" afterPath="$PROJECT_DIR$/myDB/seg0/c171.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDB/seg0/c230.dat" beforeDir="false" afterPath="$PROJECT_DIR$/myDB/seg0/c230.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDB/seg0/c490.dat" beforeDir="false" afterPath="$PROJECT_DIR$/myDB/seg0/c490.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDB/seg0/c90.dat" beforeDir="false" afterPath="$PROJECT_DIR$/myDB/seg0/c90.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDB/seg0/ca1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/myDB/seg0/ca1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDB/seg0/cb1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/myDB/seg0/cb1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/sally/parkingfrenzy/model/GameRecord.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/sally/parkingfrenzy/model/GameRecord.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/sally/parkingfrenzy/util/GeometryUtils.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/sally/parkingfrenzy/util/GeometryUtils.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/sally/parkingfrenzy/model/GameRecord$$anonfun$save$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/sally/parkingfrenzy/model/GameRecord$$anonfun$save$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/sally/parkingfrenzy/model/GameRecord$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/sally/parkingfrenzy/model/GameRecord$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/sally/parkingfrenzy/model/GameRecord.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/sally/parkingfrenzy/model/GameRecord.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="scalaFXIntro" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2jmIu3sSLl56fG77Ae1K0VwtNQk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MainApp.executor": "Run",
+    "Application.ParkingFrenzy.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sally/Programming Projects/IntelliJ/Sem 6_OOP/finalprojectv2-sally0321/src/main/resources/com/sally/parkingfrenzy/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.33678162",
+    "settings.editor.selected.configurable": "preferences.JavaFX",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sally\Programming Projects\IntelliJ\Sem 6_OOP\finalprojectv2-sally0321\src\main\resources\com\sally\parkingfrenzy\images" />
+      <recent name="C:\Users\sally\Programming Projects\IntelliJ\Sem 6_OOP\finalprojectv2-sally0321\src\main\resources\com\sally\parkingfrenzy\audio" />
+      <recent name="C:\Users\sally\Programming Projects\IntelliJ\Sem 6_OOP\finalprojectv2-sally0321\src\main\resources\com\sally\parkingfrenzy\fonts" />
+      <recent name="C:\Users\sally\Programming Projects\IntelliJ\Sem 6_OOP\finalprojectv2-sally0321\src\main\resources\com.sally.parkingfrenzy.images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sally\Programming Projects\IntelliJ\Sem 6_OOP\finalprojectv2-sally0321\src\main\resources\com\sally\parkingfrenzy\images" />
+      <recent name="C:\Users\sally\Programming Projects\IntelliJ\Sem 6_OOP\finalprojectv2-sally0321\src\main\resources\com\sally\parkingfrenzy" />
+      <recent name="C:\Users\sally\Programming Projects\IntelliJ\Sem 6_OOP\finalprojectv2-sally0321\src\main\resources\com\sally\parkingfrenzy\view" />
+      <recent name="C:\Users\sally\Programming Projects\IntelliJ\Sem 6_OOP\finalprojectv2-sally0321\src\main\resources" />
+      <recent name="C:\Users\sally\Programming Projects\IntelliJ\Sem 6_OOP\finalprojectv2-sally0321\src\main\scala\com\sally\parkingfrenzy" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0aa27b1-f668-4671-a5a6-3d6c00e9a224" name="Changes" comment="" />
+      <created>1721986045113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721986045113</updated>
+      <workItem from="1721986046259" duration="5379000" />
+      <workItem from="1722000138053" duration="503000" />
+      <workItem from="1722328269224" duration="24000" />
+      <workItem from="1722328307763" duration="57000" />
+      <workItem from="1722402975166" duration="864000" />
+      <workItem from="1722488282099" duration="395000" />
+      <workItem from="1722591327338" duration="16159000" />
+      <workItem from="1722670075570" duration="57718000" />
+      <workItem from="1722838498294" duration="29748000" />
+      <workItem from="1722930921025" duration="133000" />
+      <workItem from="1723036517867" duration="136000" />
+      <workItem from="1723036698718" duration="343000" />
+      <workItem from="1723037569408" duration="3643000" />
+      <workItem from="1723041284267" duration="5620000" />
+      <workItem from="1723047007234" duration="48000" />
+      <workItem from="1723108680860" duration="20227000" />
+      <workItem from="1723142387202" duration="55000" />
+      <workItem from="1723185424275" duration="12426000" />
+      <workItem from="1723310565333" duration="2345000" />
+      <workItem from="1723698356240" duration="15618000" />
+      <workItem from="1723730927015" duration="104848000" />
+      <workItem from="1724508546357" duration="974000" />
+    </task>
+    <task id="LOCAL-00001" summary="try moving car">
+      <option name="closed" value="true" />
+      <created>1722000518309</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722000518309</updated>
+    </task>
+    <task id="LOCAL-00002" summary="try moving car">
+      <option name="closed" value="true" />
+      <created>1722000531384</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722000531384</updated>
+    </task>
+    <task id="LOCAL-00003" summary="try moving car">
+      <option name="closed" value="true" />
+      <created>1722000536456</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722000536456</updated>
+    </task>
+    <task id="LOCAL-00004" summary="try moving car">
+      <option name="closed" value="true" />
+      <created>1722000595892</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722000595892</updated>
+    </task>
+    <task id="LOCAL-00005" summary="try collision and parking">
+      <option name="closed" value="true" />
+      <created>1722651586650</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722651586650</updated>
+    </task>
+    <task id="LOCAL-00006" summary="try simulate auto car">
+      <option name="closed" value="true" />
+      <created>1722663151007</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722663151007</updated>
+    </task>
+    <task id="LOCAL-00007" summary="try simulate auto car">
+      <option name="closed" value="true" />
+      <created>1722663219669</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722663219669</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Root layout">
+      <option name="closed" value="true" />
+      <created>1722671250642</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722671250642</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Home page">
+      <option name="closed" value="true" />
+      <created>1722695053061</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722695053061</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Select Car">
+      <option name="closed" value="true" />
+      <created>1722740067248</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1722740067248</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Game play">
+      <option name="closed" value="true" />
+      <created>1722825617732</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1722825617732</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Game play (With collision detection and stopwatch)">
+      <option name="closed" value="true" />
+      <created>1722863605511</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1722863605511</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Database and input validation">
+      <option name="closed" value="true" />
+      <created>1723046952446</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1723046952446</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Database and input validation">
+      <option name="closed" value="true" />
+      <created>1723047042707</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1723047042707</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Weather condition and back button">
+      <option name="closed" value="true" />
+      <created>1723223960004</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1723223960005</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Weather condition and back button">
+      <option name="closed" value="true" />
+      <created>1723223983482</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1723223983482</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Pause and Play Button">
+      <option name="closed" value="true" />
+      <created>1723737409570</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1723737409570</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Retry button in game page, clean code and add comments">
+      <option name="closed" value="true" />
+      <created>1724144167500</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1724144167500</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Retry button in game page, clean code and add comments">
+      <option name="closed" value="true" />
+      <created>1724144188868</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1724144188869</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Final commit">
+      <option name="closed" value="true" />
+      <created>1724331334754</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1724331334754</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="try moving car" />
+    <MESSAGE value="try collision and parking" />
+    <MESSAGE value="try simulate auto car" />
+    <MESSAGE value="Root layout" />
+    <MESSAGE value="Home page" />
+    <MESSAGE value="Select Car" />
+    <MESSAGE value="Game play" />
+    <MESSAGE value="Game play (With collision detection and stopwatch)" />
+    <MESSAGE value="Database and input validation" />
+    <MESSAGE value="Weather condition and back button" />
+    <MESSAGE value="Pause and Play Button" />
+    <MESSAGE value="Retry button in game page, clean code and add comments" />
+    <MESSAGE value="Final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/com/sally/parkingfrenzy/ParkingFrenzy.scala</url>
+          <line>128</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
